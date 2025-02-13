@@ -1,0 +1,59 @@
+
+
+/* Add your CSS here */
+
+* {
+    background-color: bisque;
+    font-family: Verdana, "Times New Roman", Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+}
+
+
+
+H1{
+    border-color: black;
+    background-color: white;
+    padding: 10px;
+    border: 10px solid black;
+    margin: 10px;
+}
+
+img {
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    border: 5px solid black;
+    background-color: black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2{
+    font-size: 24px;
+}
+
+.container {
+    text-align: center;
+}
+
+.myUL{
+    display: inline-block;
+    text-align: left;
+}
+
+
+li {
+    display: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 5px solid black;
+    text-align: center;
+}
